@@ -1,0 +1,106 @@
+$ history
+    1  git status
+    2  git commit -m "Added : java files"
+    3  git push origin master
+    4  git push origin master
+    5  git checkout -b Basicbranch
+    6  git branch
+    7  ls
+    8  touch Basic.java
+    9  nano Basic.java
+   10  git add Basic.java
+   11  git commit -m "Added : Basic java file"
+   12  git push origin Basicbranch
+   13  git push origin Basicbranch
+   14  git push origin Basicbranch
+   15  ls
+   16  git checkout master
+   17  git checkout Basicbranch
+   18  git checkout master
+   19  ls
+   20  git checkout Basicbranch branch
+   21  git merege master
+   22  ls
+   23  git checkout master
+   24  git checkout Basicbranch
+   25  git checkout master
+   26  ls
+   27  git checkout Demo1 branch
+   28  git merge Basicbranch
+   29  ls
+   30  git merge Basicbranch
+   31  git push origin master
+   32  git branch
+   33  checkout Basicmaster
+   34  git checkout Basicmaster
+   35  git checkout Basicbranch
+   36  git branch -m Demo
+   37  git branch
+   38  git branch --delete Basicbranch
+   39  git checkout -b Newbranch
+   40  git branch
+   41  git checkout master
+   42  git --delete Newbranch
+   43  git branch --delete Newbranch
+   44  git branch
+   45  git checkout -b Nyewb
+   46  git checkout Nyewb
+   47  git branch
+   48  git branch --delete Nyewb
+   49  git checkout master
+   50  git branch --delete Nyewb
+   51  git checkout Demo
+   52  git push origin Demo
+   53  git checkout master
+   54  git branch --delete Basicbranch
+   55  git branch
+   56  git checkout Basicbranch
+   57  git branch
+   58  git branch --delete Basicbranch
+   59  git checkout master
+   60  git branch --delete Basicbranch
+   61  git branch
+   62  git push origin --delete Basicbranch
+   63  git branch
+   64  mkdir twobranch
+   65  cd twobranch
+   66  pwd
+   67  git init
+   68  git branch -b Masterbranch
+   69  git checkout -b Masterbranch
+   70  touch data.java data2.java
+   71  ls
+   72  nano dada.java
+   73  git init
+   74  git remote add origin https://github.com/Nituchava/Mergebranch.git
+   75  git init
+   76  git add data.java
+   77  git push origin master
+   78  git commit -m "Added : data.java file"
+   79  git push origin master
+   80  git push origin Masterbranch
+   81  git add .
+   82  ls
+   83  git checkout master
+   84  git branch
+   85  git checkout -b master
+   86  git checkout -b Basicmaster
+   87  git init
+   88  touch data3.txt
+   89  git init
+   90  git remote add origin https://github.com/Nituchava/Mergebranch.git
+   91  add data3.txt
+   92  git add data3.txt
+   93  ls
+   94  git branch
+   95  git push origin Basicmaster
+   96  git checkout master
+   97  git push origin master
+   98  git branch
+   99  git checkout Basicmaster
+  100  git commit -m "Added : data3.txt file"
+  101  git remote add origin https://github.com/Nituchava/Mergebranch.git
+  102  git branch
+  103  git merge  master
+  104  git push orin master
+  105  git merge master
